@@ -1,0 +1,221 @@
+body{
+	font-family: "trebuchet ms";
+	margin: 0;
+	font-size: 15px;
+	color: #493D27;
+
+}
+
+header{
+	background: #fff;
+	align-items: center;
+
+}
+
+footer{
+	background: #F2785E;
+	color: #493D27;
+	font-size: 13px;
+	padding: 10px;
+	margin: 0 auto;
+	text-transform: uppercase;
+
+}
+
+footer a{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+footer a:hover{
+	color: #555;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+	background-image: url("../images/bg_menu.png");
+	max-width: 1000px;
+
+}
+
+li {
+	float: left;
+	text-transform: uppercase;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+li a:hover {
+	background-color: #1E130C;
+	color: #F5775E;
+}
+
+nav{
+	
+	background-image: url("../images/bg_menu.png");
+	margin: 0 auto;
+	background-repeat: repeat;
+	
+}
+
+h1{
+	font-size: 25px;
+	padding: 0px 0px 10px 0px;
+	text-transform: uppercase;
+
+}
+
+h2{
+	font-size: 20px;
+}
+
+.img_topo{
+	background-image: url("../images/topo_doce_sabor.jpg");
+	height: 390px;
+	width: 100%;
+}
+
+#manu{
+
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: #999;
+}
+
+#principal{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 10px 0px;
+	text-align: center;
+	display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;	
+}
+
+#principal article{
+    flex-basis: calc(32%);
+    margin-bottom: 30px;
+}
+
+#principal img{
+	width: 100%;
+}
+
+#principal-e{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px 10px;
+	text-align: left;
+	
+}
+
+.rodape{
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	
+
+}
+
+.h-line{
+	height: 2px;
+	background-color: #900;
+}
+
+.valor
+
+#texto_e{
+	float: left	;
+	width: 400px;
+	text-align: center;
+	padding: 20px;
+}
+
+#prod_1{
+	float: right;
+	padding: 15px;
+	max-width: 300px;
+	
+}
+
+#prod_2{
+
+	float: right;
+	padding: 15px;
+	max-width: 300px;
+}
+
+#prod_3{
+	float: ;
+	max-width: 300px;
+	padding: 15px;
+}
+
+
+
+.active {
+	background-color: #04AA6D;
+}
+
+.line{
+	background-color: #635842;
+	width: 1px;
+	height: 50px;
+}
+
+.textohome3{
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+}
+
+.textohome1{
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.textohome2{
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 65px;
+	color: #CE3146;
+}
+
+.img-site{
+	border-radius: 35px;
+	float: left;
+	padding: 0px 10px;
+}
+
+.img-prod{
+	float: left;
+	padding: 0px 10px;
+}
+
+.contatos{
+	max-width: 700px;
+	float: left;
+}
+
+.conteudo-prod{
+	height: 470px;
+}
+
+#shadow{
+	box-shadow: 8px 8px 5px #aaa;
+}
