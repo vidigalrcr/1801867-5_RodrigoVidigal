@@ -1,4 +1,12 @@
-<h1><strong>Projeto para a atividade MAPA da disciplina de Programação Back End I.</strong></h1>
+<h1>Meu Perfil</h1>
+<h2>Rodrigo de Castro Vidigal</h2>
+<ul>
+  <li>Aluno de graduação do curso de Sistemas para Internet da Unicesumar</li>
+  <li>Já tenho experiência com Front End (HTML e CSS)</li>
+  <li>Já trabalher com web designer. Hoje estou mais focado com ferramentas open source como: Linux, GIMP, Inkscape</li>
+</ul>
+
+<h2><strong>Projeto para a atividade MAPA da disciplina de Programação Back End I.</strong></h2>
 <h2>O trabalho consiste em desenvolver um site em PHP observando todas as determinações descritas na atividade</h2> 
 <ul>
   <li>Foi criado um site para uma confeitaria com o nome de <strong>Doce Sabor</strong>. O site contém um menu com os seguintes itens: Home, Quem Somos, Contatos e Localização.</li>
