@@ -6,7 +6,7 @@
 			<div class="contatos">
 
 				<h1>Entre em contato conosco</h1>
-				<img src="images/fone_icon.png" width="45" style="float: left;" /><br> <strong>Telefone:</strong> (61) 99999-9999
+				<img src="images/fone_icon.png" width="45" style="float: left;" /><br /> <strong>Telefone:</strong> (61) 99999-9999
 				
 		
 				<br />
