@@ -8,4 +8,5 @@
 			include ("pages/home.php");
 		}
 	}
+	//Criei a fução mas não a usei...
 ?>
